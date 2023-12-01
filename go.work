@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+	./config/krakend/plugins/krakend-client-example_000
+	./config/krakend/plugins/krakend-server-example_001
+)
